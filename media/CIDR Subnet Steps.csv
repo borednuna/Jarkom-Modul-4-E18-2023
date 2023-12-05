@@ -1,0 +1,59 @@
+I,,,,,
+Subnet,Gabungan dari,,,,Netmask Akhir
+,1,,2,,
+,Subnet,Netmask,Subnet,Netmask,
+B1,A18,/22,A17,/30,/21
+B2,A11,/27,A12,/22,/21
+,,,,,
+II,,,,,
+Subnet,Gabungan dari,,,,Netmask Akhir
+,1,,2,,
+,Subnet,Netmask,Subnet,Netmask,
+C1,B1,/21,A19,/22,/20
+C2,A20,/29,A16,/30,/28
+C3,B2,/21,A10,/30,/20
+,,,,,
+III,,,,,
+Subnet,Gabungan dari,,,,Netmask Akhir
+,1,,2,,
+,Subnet,Netmask,Subnet,Netmask,
+D1,C1,/20,C2,/28,/19
+D2,C3,/20,A9,/23,/19
+D3,A4,/22,A5,/24,/21
+,,,,,
+IV,,,,,
+Subnet,Gabungan dari,,,,Netmask Akhir
+,1,,2,,
+,Subnet,Netmask,Subnet,Netmask,
+E1,D1,/19,A15,/30,/18
+E2,D2,/19,A8,/30,/18
+E3,D3,/21,A6,/30,/20
+,,,,,
+V,,,,,
+Subnet,Gabungan dari,,,,Netmask Akhir
+,1,,2,,
+,Subnet,Netmask,Subnet,Netmask,
+F1,E2,/18,A13,/29,/17
+F2,E3,/20,A3,/30,/19
+F3,E1,/18,A21,/27,/17
+,,,,,
+VI,,,,,
+Subnet,Gabungan dari,,,,Netmask Akhir
+,1,,2,,
+,Subnet,Netmask,Subnet,Netmask,
+G1,F3,/17,A14,/30,/16
+G2,A1,/25,A2,/27,/24
+G3,F1,/17,F2,/19,/16
+,,,,,
+VII,,,,,
+Subnet,Gabungan dari,,,,Netmask Akhir
+,1,,2,,
+,Subnet,Netmask,Subnet,Netmask,
+H1,G3,/16,A7,/30,/15
+H2,G1,/16,G2,/24,/15
+,,,,,
+VIII,,,,,
+Subnet,Gabungan dari,,,,Netmask Akhir
+,1,,2,,
+,Subnet,Netmask,Subnet,Netmask,
+I1,H1,/15,H2,/15,/14
