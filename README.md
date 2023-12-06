@@ -594,10 +594,14 @@ route add -net 192.215.1.0 netmask 255.255.252.0 gw 192.215.8.2
 ```
 
 #### Denken
-`route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.215.221.1`
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.215.221.1
+```
 
 #### Fern
-`route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.215.144.2`
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.215.144.2
+```
 
 #### Flamme
 ```
@@ -606,7 +610,9 @@ route add -net 192.215.136.0 netmask 255.255.255.248 gw 192.215.138.2
 ```
 
 #### Himmel
-`route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.215.144.2`
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.215.144.2
+```
 
 #### Linie
 ```
@@ -615,13 +621,19 @@ route add -net 192.215.1.0 netmask 255.255.252.0 gw 192.215.4.2
 ```
 
 #### Lugner
-`route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.215.64.2`
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.215.64.2
+```
 
 #### Lawine
-`route add -net 192.215.1.0 netmask 255.255.252.0 gw 192.215.0.2`
+```
+route add -net 192.215.1.0 netmask 255.255.252.0 gw 192.215.0.2
+```
 
 #### Heiter
-`route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.215.4.2`
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.215.4.2
+```
 
 ### Testing
 #### Frieren - Aura (Router - Router)
