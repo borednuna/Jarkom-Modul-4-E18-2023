@@ -623,6 +623,14 @@ route add -net 192.215.1.0 netmask 255.255.252.0 gw 192.215.4.2
 #### Heiter
 `route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.215.4.2`
 
+### Testing
+#### Frieren - Aura (Router - Router)
+<img src="./media/Frieren-Aura.jpeg" width="750px">
+<br/>
+
+#### RohrRoad - LakeKorridor (Client - Client)
+<img src="./media/RohrRoad-LakeKorridor.jpeg" width="750px">
+
 ## CPT - VLSM
 
 ## Kendala Pengerjaan
